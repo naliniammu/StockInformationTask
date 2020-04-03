@@ -1,0 +1,45 @@
+
+jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø ©ƒûÿÿÿÿ
+jsquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¹ÕØ
+jsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¬äâ
+jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—µ®½
+=squid:S1659="&Declare "str_name" on a separate line.(Ëş¸
+Asquid:S1659="*Declare "str_currancy" on a separate line.(Ëş¸
+?squid:S1659="(Declare "str_pricce" on a separate line.(Ëş¸
+Fsquid:S1659="/Declare "str_timezone_name" on a separate line.(Ëş¸
+Hsquid:S1659="1Declare "str_last_trade_time" on a separate line.(Ëş¸
+Csquid:S1659=",Declare "str_price_open" on a separate line.(Ëş¸
+lsquid:S1450A"VRemove the "spinner" field and declare it as a local variable in the relevant methods.(Ï‰¯
+xsquid:S1450C"\Remove the "Trigger_click" field and declare it as a local variable in the relevant methods.(Á´Ôíùÿÿÿÿ
+ƒsquid:S1845X"lRename method "back_image" to prevent any misunderstanding/clash with field "back_image" defined on line 40.(Á˜Ì
+‰squid:S1845]"rRename method "update_button" to prevent any misunderstanding/clash with field "update_button" defined on line 56.(âÉ®’
+squid:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+rsquid:S00116("URename this field "back_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ö‹äıÿÿÿÿ
+wsquid:S00116*"ZRename this field "symbol_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âëøıÿÿÿÿ
+usquid:S00116,"XRename this field "name_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ”á“øÿÿÿÿ
+ysquid:S00116."\Rename this field "currancy_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şñÚÕûÿÿÿÿ
+vsquid:S001160"YRename this field "price_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›†—Ôøÿÿÿÿ
+~squid:S001162"aRename this field "timezone_name_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÆé“şÿÿÿÿ
+{squid:S001164"cRename this field "last_trade_time_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ÁÏ
+{squid:S001166"^Rename this field "price_open_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¯Ù÷ÿÿÿÿÿ
+psquid:S001168"XRename this field "update_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•È
+vsquid:S00116:"YRename this field "trigger_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²à‘Šıÿÿÿÿ
+ssquid:S00116<"[Rename this field "str_stock_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£òğØ
+msquid:S00116="URename this field "str_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+ksquid:S00116="SRename this field "str_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+osquid:S00116="WRename this field "str_currancy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+msquid:S00116="URename this field "str_pricce" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+tsquid:S00116="\Rename this field "str_timezone_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+vsquid:S00116="^Rename this field "str_last_trade_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+qsquid:S00116="YRename this field "str_price_open" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëş¸
+ysquid:S00116B"bRename this field "trigger_value_edit_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë»Œ
+usquid:S00116C"XRename this field "Trigger_click" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á´Ôíùÿÿÿÿ
+psquid:S00116D"XRename this field "trigger_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éù—ƒ
+zsquid:S00116E"bRename this field "str_trigger_input_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®Ì•
+squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÌ‚õıÿÿÿÿ
+Asquid:S00108{")Either remove or fill this block of code.(å¥‡
+gsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŸá§
+]squid:S1854»"ERemove this useless assignment to local variable "str_compare_Value".(—µ®½
+dsquid:S1854ì"GRemove this useless assignment to local variable "millisUntilFinished".(ºåŠ§úÿÿÿÿ
+Nsquid:S1481»"6Remove this unused "str_compare_Value" local variable.(—µ®½
+Usquid:S1481ì"8Remove this unused "millisUntilFinished" local variable.(ºåŠ§úÿÿÿÿ

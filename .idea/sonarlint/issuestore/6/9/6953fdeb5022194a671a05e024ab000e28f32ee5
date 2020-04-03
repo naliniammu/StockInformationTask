@@ -1,0 +1,27 @@
+
+msquid:S00116""URename this field "back_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø£€®
+=squid:S16590"&Declare "str_pice" on a separate line.(»û·ñ
+zsquid:S001160"bRename this field "str_stock_exchange_long" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºĞŞ•øÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'androidx.lifecycle.MutableLiveData'.(Íèæâıÿÿÿÿ
+=squid:S16590"&Declare "str_name" on a separate line.(»û·ñ
+ƒsquid:S1845T"lRename method "back_image" to prevent any misunderstanding/clash with field "back_image" defined on line 34.(Á˜Ì
+msquid:S001160"URename this field "str_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+|squid:S00116&"_Rename this field "search_recycler_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÚ ¨ıÿÿÿÿ
+Asquid:S00108m")Either remove or fill this block of code.(å¥‡
+esquid:S00101w"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÿËÉ
+nsquid:UselessImportCheck"JRemove this unused import 'com.example.stockinformationtask.entity.Datum'.(¶ó¤
+ssquid:S00116$"[Rename this field "search_edit_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•£¸İ
+xsquid:S00116*"[Rename this field "str_search_param" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²çÂéüÿÿÿÿ
+|squid:S00116+"_Rename this field "search_items_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®àùÉøÿÿÿÿ
+osquid:S001160"WRename this field "str_currancy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+squid:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ŠğÜøÿÿÿÿ
+tsquid:S00116("WRename this field "search_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¶áÿÿÿÿÿ
+ksquid:S001160"SRename this field "str_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+ksquid:S001160"SRename this field "str_pice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+{squid:S001160"cRename this field "str_stock_exchange_short" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»û·ñ
+ssquid:S1450,"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼
+Msquid:S16590"6Declare "str_stock_exchange_short" on a separate line.(»û·ñ
+Lsquid:S16590"5Declare "str_stock_exchange_long" on a separate line.(»û·ñ
+Asquid:S16590"*Declare "str_currancy" on a separate line.(»û·ñ

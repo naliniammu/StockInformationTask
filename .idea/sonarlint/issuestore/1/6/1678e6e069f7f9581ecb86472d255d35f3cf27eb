@@ -1,0 +1,6 @@
+
+vsquid:S1450#"_Remove the "viewPagerAdapter" field and declare it as a local variable in the relevant methods.(¬í—Ô
+—squid:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ù©j
+gsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(§çµüÿÿÿÿ
+psquid:S00116"XRename this field "tab_viewPager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôˆ‘Î
+psquid:S1450$"YRemove the "tabAdapter" field and declare it as a local variable in the relevant methods.(›—Ö÷

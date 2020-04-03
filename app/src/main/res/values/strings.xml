@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiveStock</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading....</string>
+    <string name="information">Live Stock</string>
+    <string name="default_notification_channel_id">com.example.stockinformationtask</string>
+    <string name="stock">Stock</string>
+    <string name="forex">Forex</string>
+    <string name="base_details">Base Details</string>
+    <string name="stock_value">Stock Value is less than</string>
+</resources>

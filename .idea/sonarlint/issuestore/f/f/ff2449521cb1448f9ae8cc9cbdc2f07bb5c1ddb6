@@ -1,0 +1,26 @@
+
+„squid:S1450:"hRemove the "forex_saved_items_adapter" field and declare it as a local variable in the relevant methods.(¾ÊªŒøÿÿÿÿ
+ssquid:S00116+"\Rename this field "no_data_text_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÉ¬Z
+ssquid:S14502"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼
+|squid:S00116'"dRename this field "forex_items_recycler_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÙØ®
+ksquid:S00101›"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê¡‡üøÿÿÿÿ
+}squid:S1450<"aRemove the "layoutManagerforex" field and declare it as a local variable in the relevant methods.(ÄËªœýÿÿÿÿ
+jsquid:S00101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã†©µüÿÿÿÿ
+{squid:S00116/"^Rename this field "forex_recycler_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Žüã—þÿÿÿÿ
+qsquid:S00116="YRename this field "str_forex_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ˆ•’
+ssquid:S001165"VRename this field "Symbol_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§„ãŸÿÿÿÿÿ
+ssquid:S001168"[Rename this field "str_forex_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²”Ä¹
+isquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃúŸ
+usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(…¿Ñ‡ýÿÿÿÿ
+wsquid:S001160"ZRename this field "forex_namesList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÏûèýÿÿÿÿ
+~squid:S14501"bRemove the "forex_items_adapter" field and declare it as a local variable in the relevant methods.(¥­ÍÌýÿÿÿÿ
+{squid:S001161"^Rename this field "forex_items_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥­ÍÌýÿÿÿÿ
+squid:S00116:"dRename this field "forex_saved_items_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÊªŒøÿÿÿÿ
+dsquid:S00101{"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷ö¦
+ˆsquid:S1845Q"lRename method "fab_button" to prevent any misunderstanding/clash with field "fab_button" defined on line 41.(¶ˆãƒþÿÿÿÿ
+Vsquid:S1155³">Use isEmpty() to check whether the collection is empty or not.(ýº¥˜
+usquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÏûèýÿÿÿÿ
+ksquid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ˆãƒþÿÿÿÿ
+Gsquid:S00108Ì")Either remove or fill this block of code.(½œÂôûÿÿÿÿ
+tsquid:S1450="]Remove the "str_forex_base" field and declare it as a local variable in the relevant methods.(…ˆ•’
+rsquid:S00116)"URename this field "fab_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Û©ìøÿÿÿÿ

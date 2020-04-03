@@ -1,0 +1,21 @@
+
+wsquid:S00116,"_Rename this field "stocks_recycler_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‚Þì
+ksquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ˆãƒþÿÿÿÿ
+ysquid:S14503"bRemove the "stock_items_adapter" field and declare it as a local variable in the relevant methods.(ƒÁÑÈ
+ˆsquid:S1845K"lRename method "fab_button" to prevent any misunderstanding/clash with field "fab_button" defined on line 46.(¶ˆãƒþÿÿÿÿ
+esquid:S00101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÉò³
+rsquid:S00116."URename this field "fab_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Û©ìøÿÿÿÿ
+Tsquid:UselessImportCheck!"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Zsquid:S1155q">Use isEmpty() to check whether the collection is empty or not.(³ß€§øÿÿÿÿ
+squid:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ýÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'android.os.Handler'.(ûÛ’¡
+vsquid:S001163"^Rename this field "stock_items_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÁÑÈ
+[squid:UselessImportCheck"7Remove this unused import 'android.app.ProgressDialog'.(¶ÍÔÓ
+ssquid:S001160"\Rename this field "no_data_text_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÉ¬Z
+usquid:S14506"YRemove the "str_symbol" field and declare it as a local variable in the relevant methods.(Ö±ŽÑþÿÿÿÿ
+rsquid:S001166"URename this field "str_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö±ŽÑþÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+Zsquid:S1155V">Use isEmpty() to check whether the collection is empty or not.(³ß€§øÿÿÿÿ
+Gsquid:S00108†")Either remove or fill this block of code.(½œÂôûÿÿÿÿ
+ssquid:S14504"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼
+Fsquid:S00108q")Either remove or fill this block of code.(³ß€§øÿÿÿÿ

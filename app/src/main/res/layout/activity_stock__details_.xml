@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.Stock_Details_Activity">
+
+    <RelativeLayout
+        android:id="@+id/action_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorTab">
+        <include
+            layout="@layout/action_bar_layout"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/name_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/action_bar_layout"
+        android:hint=""
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/symbol_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name_textview"
+        android:hint=""
+       android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/currancy_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/symbol_textview"
+        android:hint=""
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/price_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/currancy_textview"
+        android:hint=""
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/price_open_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/price_textview"
+        android:hint=""
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/timezone_name_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/price_open_textview"
+        android:hint=""
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/last_trade_time_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timezone_name_textview"
+        android:hint=""
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="18sp"/>
+    
+    <Button
+        android:visibility="gone"
+        android:id="@+id/update_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/last_trade_time_textview"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:text="Update"/>
+
+
+
+
+    <Button
+        android:id="@+id/trigger_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:text="Trigger"/>
+
+</RelativeLayout>
